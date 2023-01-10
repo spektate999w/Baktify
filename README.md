@@ -4,3 +4,8 @@ Guide jalankan hal-hal berikut:
 2. jalankan "composer i"
 3. jalanakan "php artisan migrate:refresh --seed"
 4. Jalankan "php artisan storage:link"
+
+
+untuk akun admin:
+email: adminJoe@gmail.com
+Password: adminJoe
