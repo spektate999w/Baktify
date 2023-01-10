@@ -1,0 +1,17 @@
+Bootstrap: 	https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css
+
+css: https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css
+js: https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js
+
+image:
+-ropin the wind: https://en.wikipedia.org/wiki/Ropin%27_the_Wind
+-ropin the wind: https://upload.wikimedia.org/wikipedia/en/5/5a/Garth_Brooks-Ropin%27_the_Wind_%28album_cover%29.jpg
+
+-shania twain: https://themusic-originals.sgp1.digitaloceanspaces.com/standard/countrytown/2022/09/shania-twain.jpg
+
+
+generate code mt_rand: https://code.tutsplus.com/tutorials/generate-random-alphanumeric-strings-in-php--cms-32132
+mt_rand: https://www.php.net/manual/en/function.mt-rand.php
+mt_rand: https://www.w3schools.com/php/func_math_mt_rand.asp
+
+Update feature: https://stackoverflow.com/questions/29594572/laravel-eloquent-update-record-without-loading-from-database
